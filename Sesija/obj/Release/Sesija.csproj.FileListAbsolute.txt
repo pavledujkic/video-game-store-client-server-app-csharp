@@ -1,0 +1,7 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Release\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Release\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Release\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Release\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\obj\Release\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\obj\Release\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\obj\Release\Sesija.pdb

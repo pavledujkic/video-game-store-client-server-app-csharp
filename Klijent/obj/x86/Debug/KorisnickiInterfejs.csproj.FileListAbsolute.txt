@@ -1,0 +1,351 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Klijent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BasicSem\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\Klijent.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaUsluge.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\Klijent.exe
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaUsluge.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Klijent.exe
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiFilma.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaFilmova.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosFilma.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Klijent.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.DetaljiFilma.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.PretragaFilmova.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.UnosFilma.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\Video klub\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\Video klub\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Klijent.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.DetaljiFilma.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.PretragaFilmova.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.UnosFilma.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Klijent.exe
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.DetaljiFilma.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.PretragaFilmova.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.UnosFilma.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\Klijent.exe
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.DetaljiFilma.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.PretragaFilmova.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Klijent\obj\x86\Debug\Klijent.UnosPredstave.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\Klijent.exe
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.DetaljiRacuna.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.PretragaRacuna.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.UnosRacuna.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.UnosPredstave.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.DetaljiPredstave.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Klijent\obj\x86\Debug\Klijent.PretragaPredstava.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\Klijent.exe
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\Klijent.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.DetaljiRezervacije.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.PretragaRezervacije.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.UnosRezervacije.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.DetaljiUsluge.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.PretragaUsluga.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Klijent\obj\x86\Debug\Klijent.UnosUsluge.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\Klijent.exe
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\Klijent.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.DetaljiProdaje.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.DetaljiVideoIgre.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.PretragaProdaje.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.PretragaVideoIgara.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.UnosProdaje.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.UnosVideoIgre.resources
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\admin\Desktop\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\Klijent.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.DetaljiProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.DetaljiVideoIgre.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.PretragaProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.PretragaVideoIgara.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.UnosProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.UnosVideoIgre.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\Klijent.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.DetaljiProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.DetaljiVideoIgre.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.PretragaProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.PretragaVideoIgara.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.UnosProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.UnosVideoIgre.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\Klijent.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.DetaljiProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.DetaljiVideoIgre.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.PocetnaForma.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.PretragaProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.PretragaVideoIgara.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.UnosProdaje.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.UnosVideoIgre.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Klijent\obj\x86\Debug\Klijent.pdb

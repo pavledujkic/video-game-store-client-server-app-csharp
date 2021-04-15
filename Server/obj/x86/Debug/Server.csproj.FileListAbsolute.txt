@@ -1,0 +1,313 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Desktop\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Desktop\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Desktop\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Desktop\BasicSem\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Desktop\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Desktop\BasicSem\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\Server.exe.config
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\Server.exe.config
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\obj\x86\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\obj\x86\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\Server.exe
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\Server.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\Server.exe.config
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\obj\x86\Debug\Server.exe
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\obj\x86\Debug\Server.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\Server.exe
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\Server.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\Biblioteka.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\Sesija.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\Sesija.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Server.exe.config
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.exe
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Server.exe
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Server.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Server.exe.config
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Server.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Server.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\Video klub\Server\bin\Debug\Server.exe.config
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\Video klub\Server\obj\x86\Debug\Server.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\Video klub\Server\obj\x86\Debug\Server.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\Server.exe.config
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\Server.exe
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\Server.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\Server.exe.config
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.exe
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\Server.exe
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\Server.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Server.exe.config
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Server.exe
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Server.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Sesija.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.exe
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\obj\x86\Debug\Server.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Server\bin\Debug\Sesija.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Server.exe.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Server.exe
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Server.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Sesija.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\Sesija.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.exe
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Server\obj\x86\Debug\Server.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Server.exe.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Server.exe
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Server.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Sesija.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\Sesija.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.exe
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Server\obj\x86\Debug\Server.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Server.exe.config
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Server.exe
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Server.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Sesija.dll
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\Sesija.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.exe
+C:\Users\admin\Desktop\Prodaja video igara\Server\obj\x86\Debug\Server.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Server.exe.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Server.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Server.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Server\obj\x86\Debug\Server.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Server.exe.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Server.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Server.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Server\obj\x86\Debug\Server.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Server.exe.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Server.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Server.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.exe
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Server\obj\x86\Debug\Server.pdb

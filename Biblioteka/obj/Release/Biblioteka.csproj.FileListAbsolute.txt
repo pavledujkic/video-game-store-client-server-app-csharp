@@ -1,0 +1,4 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Biblioteka\bin\Release\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Biblioteka\bin\Release\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Biblioteka\obj\Release\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Biblioteka\obj\Release\Biblioteka.pdb

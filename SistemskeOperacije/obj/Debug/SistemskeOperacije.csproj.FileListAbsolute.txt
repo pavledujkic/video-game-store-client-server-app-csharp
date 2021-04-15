@@ -1,0 +1,190 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Desktop\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\SistemskeOperacije\bin\Debug\Sesija.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\bin\Debug\Sesija.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\bin\Debug\Sesija.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\bin\Debug\Sesija.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\admin\Desktop\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\SistemskeOperacije.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\obj\Debug\SistemskeOperacije.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\obj\Debug\SistemskeOperacije.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\obj\Debug\SistemskeOperacije.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\SistemskeOperacije\obj\Debug\SistemskeOperacije.pdb

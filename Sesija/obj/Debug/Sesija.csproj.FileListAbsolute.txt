@@ -1,0 +1,161 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicForma\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Desktop\BasicSem\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\obj\Debug\Sesija.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Sesija\bin\Debug\Sesija.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Sesija\obj\Debug\Sesija.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Sesija\obj\Debug\Sesija.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Sesija\obj\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Sesija\obj\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Sesija\obj\Debug\Sesija.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\bin\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\obj\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\Sesija\bin\Debug\Sesija.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\bin\Debug\Sesija.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\bin\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\obj\Debug\Sesija.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\Sesija\obj\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\bin\Debug\Sesija.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\bin\Debug\Sesija.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\bin\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\obj\Debug\Sesija.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\Sesija\obj\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\bin\Debug\Sesija.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\bin\Debug\Sesija.dll
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\bin\Debug\Sesija.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\obj\Debug\Sesija.dll
+C:\Users\admin\Desktop\Prodaja video igara\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\obj\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\obj\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\Sesija\obj\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\bin\Debug\Sesija.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\bin\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\obj\Debug\Sesija.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\Sesija\obj\Debug\Sesija.pdb

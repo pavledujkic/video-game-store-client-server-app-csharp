@@ -1,0 +1,140 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\obj\Debug\Komunikacija.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerAplikacioneLogike\obj\Debug\KontrolerAplikacioneLogike.pdb

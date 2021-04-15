@@ -1,0 +1,183 @@
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Marijana\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kolokvijum\M&M\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Nadja\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Desktop\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ema\BasicSem\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Arsa\Documents\Visual Studio 2010\Projects\PS\Kol\Ana&Vlada\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Vlada\Desktop\PS Projekat\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\FrizerskiSalon\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Ana\Desktop\ps radi najnovije\Projekat ps ana\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Nemanja\Desktop\PS\C#\VideoKlub\VideoKlub\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll.config
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Nemanja\Desktop\PS\C#\Pozoriste\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\admin\Desktop\Pozoriste (1)\Pozoriste\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll.config
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\admin\Desktop\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - Copy\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\bin\Debug\Biblioteka.dll.config
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\bin\Debug\KontrolerAplikacioneLogike.pdb
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Paki\Downloads\FON\SOFTVERI\PROJEKAT\Prodaja video igara - final\KontrolerKorisnickogInterfejsa\obj\Debug\KontrolerKorisnickogInterfejsa.pdb
